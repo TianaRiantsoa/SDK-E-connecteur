@@ -12,6 +12,7 @@
 
 // $xsl_file = 'dev-client/ATL/SDK_f6f62d6c631034bc8846224273fd6d2b87a85d77_customers_get_after.xsl';
 // $xml_file = 'dev-client/ATL/customers.xml';
+
 $xsl_file = 'dev-client/OZ/SDK_ID_addresses_get_after.xsl';
 $xml_file = 'dev-client/OZ/addresses.xml';
 

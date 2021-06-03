@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<connecteur>
+  <order>
+    <livraison>
+      <pays>FR</pays>
+      <lastname>Michel</lastname>
+      <firstname>christophe</firstname>
+      <address1>route de troubadour</address1>
+      <postcode>84110</postcode>
+      <city>Vaison</city>
+      <phone>0613157443</phone>
+    </livraison>
+    <facturation>
+      <pays>FR</pays>
+      <lastname>Michel</lastname>
+      <firstname>christophe</firstname>
+       <address1>route de troubadour</address1>
+      <postcode>84110</postcode>
+      <city>Vaison</city>
+      <phone>0613157443</phone>
+    </facturation>
+    <client>
+      <lastname>Michel</lastname>
+      <firstname>christophe</firstname>
+      <email>testeur@hotmail.com</email>
+    </client>
+    <commande>
+      <date_add>2017-04-02 18:51:48</date_add>
+      <payment>etep_cb</payment>
+      <total_discounts>0</total_discounts>
+      <total_paid>115.0800</total_paid>
+      <total_products>115.0800</total_products>
+      <total_shipping>20.0000</total_shipping>
+      <livreur>Tarif unique - Fixed</livreur>
+      <total_discounts_tax_excl>0</total_discounts_tax_excl>
+      <carrier_tax_rate>20</carrier_tax_rate>
+    </commande>
+    <produits>
+      <product>
+        <product_reference>FAC132</product_reference>
+        <product_quantity>1.0000</product_quantity>
+        <product_name>FILTRE CHARBON ACTIF KUBOTA</product_name>
+        <product_price>75.9000</product_price>
+        <tva_rate>20.0000</tva_rate>
+        <ecotax>0.0000</ecotax>
+        <product_discount>0</product_discount>
+      </product>
+    </produits>
+  </order>
+</connecteur>

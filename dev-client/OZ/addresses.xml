@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+<address>
+	<id><![CDATA[11348]]></id>
+	<id_customer xlink:href="https://www.drapazur.com/api/customers/1">
+		<customer>
+			<id>1</id>
+			<id_default_group xlink:href="https://www.drapazur.com/api/groups/1">1</id_default_group>
+			<id_lang xlink:href="https://www.drapazur.com/api/languages/2">2</id_lang>
+			<newsletter_date_add>2014-07-24 15:34:43</newsletter_date_add>
+			<ip_registration_newsletter>0</ip_registration_newsletter>
+			<last_passwd_gen>2016-08-31 17:37:38</last_passwd_gen>
+			<secure_key>3c86564a41f665b17a2700020c961097</secure_key>
+			<deleted>0</deleted>
+			<passwd>2b98762d4fb58832b45faf4c00244a91</passwd>
+			<lastname>Varinard</lastname>
+			<firstname>Maxime</firstname>
+			<email>webmaster@varinard.com</email>
+			<id_gender>9</id_gender>
+			<birthday>0000-00-00</birthday>
+			<newsletter>1</newsletter>
+			<optin>0</optin>
+			<website/>
+			<company/>
+			<siret/>
+			<ape/>
+			<outstanding_allow_amount>0.000000</outstanding_allow_amount>
+			<show_public_prices>0</show_public_prices>
+			<id_risk>1</id_risk>
+			<max_payment_days>60</max_payment_days>
+			<active>1</active>
+			<note>0</note>
+			<is_guest>0</is_guest>
+			<id_shop>1</id_shop>
+			<id_shop_group>1</id_shop_group>
+			<date_add>2012-10-15 08:48:17</date_add>
+			<date_upd>2016-08-31 17:37:38</date_upd>
+			<associations>
+			<groups nodeType="group" api="groups">
+			<group xlink:href="https://www.drapazur.com/api/groups/1">
+			<id>1</id>
+			</group>
+			</groups>
+			</associations>
+		</customer>
+	</id_customer>
+	<id_manufacturer><![CDATA[0]]></id_manufacturer>
+	<id_supplier><![CDATA[0]]></id_supplier>
+	<id_warehouse><![CDATA[0]]></id_warehouse>
+	<id_country xlink:href="https://www.drapazur.com/api/countries/8"><![CDATA[8]]></id_country>
+	<id_state><![CDATA[0]]></id_state>
+	<alias><![CDATA[france]]></alias>
+	<company></company>
+	<lastname><![CDATA[Varinard]]></lastname>
+	<firstname><![CDATA[Maxime]]></firstname>
+	<vat_number></vat_number>
+	<address1><![CDATA[Rue des ormeaux]]></address1>
+	<address2></address2>
+	<postcode><![CDATA[84110]]></postcode>
+	<city><![CDATA[Vaison la Romaine]]></city>
+	<other></other>
+	<phone><![CDATA[0490360945]]></phone>
+	<phone_mobile></phone_mobile>
+	<dni></dni>
+	<deleted><![CDATA[0]]></deleted>
+	<date_add><![CDATA[2012-10-15 09:28:30]]></date_add>
+	<date_upd><![CDATA[2012-10-15 09:28:30]]></date_upd>
+</address>
+</prestashop>

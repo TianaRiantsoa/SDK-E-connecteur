@@ -1,0 +1,82 @@
+<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+  <order>
+    <id>600012</id>
+    <id_address_delivery xlink:href="http://localhost/api/addresses/44207">44207</id_address_delivery>
+    <id_address_invoice xlink:href="http://localhost/api/addresses/44207">44207</id_address_invoice>
+    <id_cart xlink:href="http://localhost/api/carts/578245">578245</id_cart>
+    <id_currency xlink:href="http://localhost/api/currencies/1">1</id_currency>
+    <id_lang xlink:href="http://localhost/api/languages/1">1</id_lang>
+    <id_customer xlink:href="http://localhost/api/customers/4">4</id_customer>
+    <id_carrier xlink:href="http://localhost/api/carriers/13">13</id_carrier>
+    <current_state xlink:href="http://localhost/api/order_states/1">1</current_state>
+    <module>sfpayment</module>
+    <invoice_number>0</invoice_number>
+    <invoice_date>0000-00-00 00:00:00</invoice_date>
+    <delivery_number>0</delivery_number>
+    <delivery_date>0000-00-00 00:00:00</delivery_date>
+    <valid>0</valid>
+    <date_add>2017-11-17 15:47:57</date_add>
+    <date_upd>2017-11-17 15:47:57</date_upd>
+    <shipping_number notFilterable="true"/>
+    <ref_comm_ext notFilterable="true"/>
+    <frais_facturation_ht notFilterable="true"/>
+    <id_shop_group>1</id_shop_group>
+    <id_shop>1</id_shop>
+    <secure_key>03d813877b6a562915bf045074c3742d</secure_key>
+    <payment>amazon prime</payment>
+    <recyclable>0</recyclable>
+    <gift>0</gift>
+    <gift_message/>
+    <mobile_theme>0</mobile_theme>
+    <total_discounts>0.000000</total_discounts>
+    <total_discounts_tax_incl>0.000000</total_discounts_tax_incl>
+    <total_discounts_tax_excl>0.000000</total_discounts_tax_excl>
+    <total_paid>38.640122</total_paid>
+    <total_paid_tax_incl>38.640122</total_paid_tax_incl>
+    <total_paid_tax_excl>35.251300</total_paid_tax_excl>
+    <total_paid_real>0.000000</total_paid_real>
+    <total_products>25.251300</total_products>
+    <total_products_wt>26.640122</total_products_wt>
+    <total_shipping>12.000000</total_shipping>
+    <total_shipping_tax_incl>12.000000</total_shipping_tax_incl>
+    <total_shipping_tax_excl>10.000000</total_shipping_tax_excl>
+    <carrier_tax_rate>20.000</carrier_tax_rate>
+    <total_wrapping>0.000000</total_wrapping>
+    <total_wrapping_tax_incl>0.000000</total_wrapping_tax_incl>
+    <total_wrapping_tax_excl>0.000000</total_wrapping_tax_excl>
+    <round_mode>2</round_mode>
+    <round_type>2</round_type>
+    <conversion_rate>1.000000</conversion_rate>
+    <reference>600012</reference>
+    <associations>
+      <order_rows nodeType="order_row" virtualEntity="true">
+        <order_row>
+          <id>146386</id>
+          <product_id>1</product_id>
+          <product_attribute_id>0</product_attribute_id>
+          <product_quantity>100</product_quantity>
+          <product_name>Marbré de Foie Gras de Canard Entier mi-cuit 180g</product_name>
+          <product_reference>M507</product_reference>
+          <product_ean13></product_ean13>
+          <product_upc/>
+          <product_price>28.057000</product_price>
+          <unit_price_tax_incl>26.640122</unit_price_tax_incl>
+          <unit_price_tax_excl>25.251300</unit_price_tax_excl>
+        </order_row>
+        <order_row>
+          <id>146387</id>
+          <product_id>2</product_id>
+          <product_attribute_id>0</product_attribute_id>
+          <product_quantity>10</product_quantity>
+          <product_name>Jus de groseille</product_name>
+          <product_reference>M508</product_reference>
+          <product_ean13></product_ean13>
+          <product_upc/>
+          <product_price>28.057000</product_price>
+          <unit_price_tax_incl>26.640122</unit_price_tax_incl>
+          <unit_price_tax_excl>25.251300</unit_price_tax_excl>
+        </order_row>
+      </order_rows>
+    </associations>
+  </order>
+</prestashop>

@@ -22,8 +22,8 @@ $xml_file = 'exemples/produits_1.xml';
 // $xsl_file = 'exemples/commandes_6.xsl';
 // $xml_file = 'exemples/commandes_6.xml';
 
-$xsl_file = 'exemples/combinations_1.xsl';
-$xml_file = 'exemples/combinations_1.xml';
+$xsl_file = 'combinations_1.xsl';
+$xml_file = 'combinations_1.xml';
 
 //Test de transformation
 error_reporting(-1);

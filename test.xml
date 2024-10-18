@@ -1,241 +1,36 @@
 <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
-  <product>
-    <id>5113</id>
-    <id_manufacturer>0</id_manufacturer>
-    <id_supplier>0</id_supplier>
-    <new/>
-    <cache_default_attribute>13842</cache_default_attribute>
-    <id_default_image xlink:href="http://www.demo.com/api/images/products/5113/13915" notFilterable="true">13915</id_default_image>
-    <id_default_combination xlink:href="http://www.demo.com/api/combinations/13842" notFilterable="true">13842</id_default_combination>
-    <id_tax_rules_group xlink:href="http://www.demo.com/api/tax_rule_groups/7">7</id_tax_rules_group>
-    <position_in_category notFilterable="true">47</position_in_category>
-    <manufacturer_name notFilterable="true"/>
-    <quantity notFilterable="true">0</quantity>
-    <type notFilterable="true">simple</type>
-    <id_shop_default>1</id_shop_default>
-    <reference>DCFE</reference>
-    <supplier_reference/>
-    <location/>
-    <width>0.000000</width>
-    <height>0.000000</height>
-    <depth>0.000000</depth>
-    <weight>1.800000</weight>
-    <quantity_discount>0</quantity_discount>
-    <ean13/>
-    <upc/>
-    <cache_is_pack>0</cache_is_pack>
-    <cache_has_attachments>0</cache_has_attachments>
-    <is_virtual>0</is_virtual>
-    <on_sale>0</on_sale>
-    <online_only>0</online_only>
-    <ecotax>0.000000</ecotax>
-    <minimal_quantity>1</minimal_quantity>
-    <price>49.916667</price>
+  <combination>
+    <id>1884</id>
+    <id_product xlink:href="https://ib2024.quatrys.fr/api/products/720">720</id_product>
+    <ean13></ean13>
+    <isbn></isbn>
+    <upc></upc>
+    <mpn></mpn>
+    <reference>1008000</reference>
+    <supplier_reference></supplier_reference>
     <wholesale_price>0.000000</wholesale_price>
-    <unity/>
-    <unit_price_ratio>0.000000</unit_price_ratio>
-    <additional_shipping_cost>0.00</additional_shipping_cost>
-    <customizable>0</customizable>
-    <text_fields>0</text_fields>
-    <uploadable_files>0</uploadable_files>
-    <active>1</active>
-    <redirect_type/>
-    <id_product_redirected>0</id_product_redirected>
-    <available_for_order>1</available_for_order>
+    <price>4.160000</price>
+    <ecotax>0.000000</ecotax>
+    <weight>0.060000</weight>
+    <unit_price_impact>1.0</unit_price_impact>
+    <minimal_quantity>1</minimal_quantity>
+    <low_stock_threshold>33</low_stock_threshold>
+    <low_stock_alert>1</low_stock_alert>
+    <default_on>1</default_on>
     <available_date>0000-00-00</available_date>
-    <condition>new</condition>
-    <show_price>1</show_price>
-    <indexed>1</indexed>
-    <visibility>both</visibility>
-    <advanced_stock_management>0</advanced_stock_management>
-    <date_add>2017-01-26 09:12:02</date_add>
-    <date_upd>2017-02-07 16:21:24</date_upd>
-    <pack_stock_type>3</pack_stock_type>
-    <meta_description>
-      <language id="1" xlink:href="http://www.demo.com/api/languages/1">Chaussures de Combat Forêt équatoriale</language>
-    </meta_description>
-    <meta_keywords>
-      <language id="1" xlink:href="http://www.demo.com/api/languages/1"></language>
-    </meta_keywords>
-    <meta_title>
-      <language id="1" xlink:href="http://www.demo.com/api/languages/1">Chaussures de Combat Forêt équatoriale</language>
-    </meta_title>
-    <link_rewrite>
-      <language id="1" xlink:href="http://www.demo.com/api/languages/1">chaussures-de-combat-felin-foret-equatoriale</language>
-    </link_rewrite>
-    <name>
-      <language id="1" xlink:href="http://www.demo.com/api/languages/1">Chaussures de Combat Félin Forêt équatoriale</language>
-    </name>
-    <description>
-      <language id="1" xlink:href="http://www.demo.com/api/languages/1"></language>
-    </description>
-    <description_short>
-      <language id="1" xlink:href="http://www.demo.com/api/languages/1">&lt;p&gt;Chaussures de Combat Forêt équatoriale utilisées par l'Armée française notamment en Guyane.&lt;/p&gt;
-&lt;p&gt;Perforation en bas de tige pour permettre l'évacuation de l'eau. &lt;br /&gt;Première de montage : amovible facilitant le passage de l'eau. &lt;br /&gt;Semelle VIBRAM. &lt;br /&gt;Montage soudé.&lt;/p&gt;</language>
-    </description_short>
     <available_now>
-      <language id="1" xlink:href="http://www.demo.com/api/languages/1"></language>
+      <language id="1" xlink:href="https://ib2024.quatrys.fr/api/languages/1"></language>
     </available_now>
     <available_later>
-      <language id="1" xlink:href="http://www.demo.com/api/languages/1"></language>
+      <language id="1" xlink:href="https://ib2024.quatrys.fr/api/languages/1"></language>
     </available_later>
     <associations>
-      <categories nodeType="category" api="categories">
-        <category xlink:href="http://www.demo.com/api/categories/30">
-          <id>30</id>
-        </category>
-      </categories>
-      <images nodeType="image" api="images">
-        <image xlink:href="http://www.demo.com/api/images/products/5113/13915">
-          <id>13915</id>
-        </image>
-        <image xlink:href="http://www.demo.com/api/images/products/5113/13916">
-          <id>13916</id>
-        </image>
-        <image xlink:href="http://www.demo.com/api/images/products/5113/13917">
-          <id>13917</id>
-        </image>
-        <image xlink:href="http://www.demo.com/api/images/products/5113/13918">
-          <id>13918</id>
-        </image>
-        <image xlink:href="http://www.demo.com/api/images/products/5113/13919">
-          <id>13919</id>
-        </image>
-        <image xlink:href="http://www.demo.com/api/images/products/5113/13920">
-          <id>13920</id>
-        </image>
-        <image xlink:href="http://www.demo.com/api/images/products/5113/13921">
-          <id>13921</id>
-        </image>
-        <image xlink:href="http://www.demo.com/api/images/products/5113/13922">
-          <id>13922</id>
-        </image>
-        <image xlink:href="http://www.demo.com/api/images/products/5113/13923">
-          <id>13923</id>
-        </image>
-      </images>
-      <combinations nodeType="combination" api="combinations">
-        <combination xlink:href="http://www.demo.com/api/combinations/13843">
-          <id>13843</id>
-        </combination>
-        <combination xlink:href="http://www.demo.com/api/combinations/13844">
-          <id>13844</id>
-        </combination>
-        <combination xlink:href="http://www.demo.com/api/combinations/13845">
-          <id>13845</id>
-        </combination>
-        <combination xlink:href="http://www.demo.com/api/combinations/13846">
-          <id>13846</id>
-        </combination>
-        <combination xlink:href="http://www.demo.com/api/combinations/13847">
-          <id>13847</id>
-        </combination>
-        <combination xlink:href="http://www.demo.com/api/combinations/13848">
-          <id>13848</id>
-        </combination>
-        <combination xlink:href="http://www.demo.com/api/combinations/13849">
-          <id>13849</id>
-        </combination>
-        <combination xlink:href="http://www.demo.com/api/combinations/13842">
-          <id>13842</id>
-        </combination>
-      </combinations>
       <product_option_values nodeType="product_option_value" api="product_option_values">
-        <product_option_value xlink:href="http://www.demo.com/api/product_option_values/694">
-          <id>694</id>
-        </product_option_value>
-        <product_option_value xlink:href="http://www.demo.com/api/product_option_values/695">
-          <id>695</id>
-        </product_option_value>
-        <product_option_value xlink:href="http://www.demo.com/api/product_option_values/696">
-          <id>696</id>
-        </product_option_value>
-        <product_option_value xlink:href="http://www.demo.com/api/product_option_values/1148">
-          <id>1148</id>
-        </product_option_value>
-        <product_option_value xlink:href="http://www.demo.com/api/product_option_values/1163">
-          <id>1163</id>
-        </product_option_value>
-        <product_option_value xlink:href="http://www.demo.com/api/product_option_values/1164">
-          <id>1164</id>
-        </product_option_value>
-        <product_option_value xlink:href="http://www.demo.com/api/product_option_values/1165">
-          <id>1165</id>
-        </product_option_value>
-        <product_option_value xlink:href="http://www.demo.com/api/product_option_values/693">
-          <id>693</id>
+        <product_option_value xlink:href="https://ib2024.quatrys.fr/api/product_option_values/183">
+          <id>183</id>
         </product_option_value>
       </product_option_values>
-      <product_features nodeType="product_feature" api="product_features"/>
-      <tags nodeType="tag" api="tags">
-        <tag xlink:href="http://www.demo.com/api/tags/104">
-          <id>104</id>
-        </tag>
-        <tag xlink:href="http://www.demo.com/api/tags/390">
-          <id>390</id>
-        </tag>
-        <tag xlink:href="http://www.demo.com/api/tags/447">
-          <id>447</id>
-        </tag>
-        <tag xlink:href="http://www.demo.com/api/tags/557">
-          <id>557</id>
-        </tag>
-        <tag xlink:href="http://www.demo.com/api/tags/1024">
-          <id>1024</id>
-        </tag>
-        <tag xlink:href="http://www.demo.com/api/tags/1056">
-          <id>1056</id>
-        </tag>
-        <tag xlink:href="http://www.demo.com/api/tags/8564">
-          <id>8564</id>
-        </tag>
-        <tag xlink:href="http://www.demo.com/api/tags/12121">
-          <id>12121</id>
-        </tag>
-        <tag xlink:href="http://www.demo.com/api/tags/12122">
-          <id>12122</id>
-        </tag>
-      </tags>
-      <stock_availables nodeType="stock_available" api="stock_availables">
-        <stock_available xlink:href="http://www.demo.com/api/stock_availables/9014">
-          <id>9014</id>
-          <id_product_attribute>0</id_product_attribute>
-        </stock_available>
-        <stock_available xlink:href="http://www.demo.com/api/stock_availables/9015">
-          <id>9015</id>
-          <id_product_attribute>13842</id_product_attribute>
-        </stock_available>
-        <stock_available xlink:href="http://www.demo.com/api/stock_availables/9016">
-          <id>9016</id>
-          <id_product_attribute>13843</id_product_attribute>
-        </stock_available>
-        <stock_available xlink:href="http://www.demo.com/api/stock_availables/9017">
-          <id>9017</id>
-          <id_product_attribute>13844</id_product_attribute>
-        </stock_available>
-        <stock_available xlink:href="http://www.demo.com/api/stock_availables/9018">
-          <id>9018</id>
-          <id_product_attribute>13845</id_product_attribute>
-        </stock_available>
-        <stock_available xlink:href="http://www.demo.com/api/stock_availables/9019">
-          <id>9019</id>
-          <id_product_attribute>13846</id_product_attribute>
-        </stock_available>
-        <stock_available xlink:href="http://www.demo.com/api/stock_availables/9020">
-          <id>9020</id>
-          <id_product_attribute>13847</id_product_attribute>
-        </stock_available>
-        <stock_available xlink:href="http://www.demo.com/api/stock_availables/9021">
-          <id>9021</id>
-          <id_product_attribute>13848</id_product_attribute>
-        </stock_available>
-        <stock_available xlink:href="http://www.demo.com/api/stock_availables/9022">
-          <id>9022</id>
-          <id_product_attribute>13849</id_product_attribute>
-        </stock_available>
-      </stock_availables>
-      <accessories nodeType="product" api="products"/>
-      <product_bundle nodeType="product" api="products"/>
+      <images nodeType="image" api="images/products"/>
     </associations>
-  </product>
+  </combination>
 </prestashop>

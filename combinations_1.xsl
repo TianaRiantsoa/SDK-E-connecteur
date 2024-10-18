@@ -18,6 +18,6 @@
     </xsl:template>
 
     <xsl:template match="/prestashop/combination/unit_price_impact">
-        <unit_price_impact>1</unit_price_impact>
+        <unit_price_impact>1.0</unit_price_impact>
     </xsl:template>
 </xsl:stylesheet>

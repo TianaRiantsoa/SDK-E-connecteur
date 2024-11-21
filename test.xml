@@ -1,4 +1,4 @@
-<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
+"<prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
   <customer>
     <id>174</id>
     <id_default_group xlink:href="https://localhost/api/groups/12">12</id_default_group>

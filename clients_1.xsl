@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-Ajout d'un code famille selon si le siret client est rempli ou non.
-SWITCH
-CASE:
-Siret == null = PART
-DEFAULT:
-Siret != null = PRO
+Rajout de code-erp pour avoir la valeur CL01493 et name pour avoir EVENDI
 -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output omit-xml-declaration="yes" indent="yes"/>
@@ -34,5 +29,3 @@ Siret != null = PRO
         </xsl:copy>
     </xsl:template>
 </xsl:stylesheet>
-
-

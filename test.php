@@ -7,8 +7,8 @@
 //Ce script permet de tester une transformation XSLT en php
 
 //Paramètres
-$xsl_file = 'exemples/produits_1.xsl';
-$xml_file = 'exemples/produits_1.xml';
+// $xsl_file = 'exemples/produits_1.xsl';
+// $xml_file = 'exemples/produits_1.xml';
 
 // $xsl_file = 'dev-client/ATL/SDK_f6f62d6c631034bc8846224273fd6d2b87a85d77_customers_get_after.xsl';
 // $xml_file = 'dev-client/ATL/customers.xml';
@@ -22,8 +22,8 @@ $xml_file = 'exemples/produits_1.xml';
 // $xsl_file = 'exemples/commandes_6.xsl';
 // $xml_file = 'exemples/commandes_6.xml';
 
-$xsl_file = 'combinations_1.xsl';
-$xml_file = 'combinations_1.xml';
+$xsl_file = 'clients_1.xsl';
+$xml_file = 'clients_1.xml';
 
 //Test de transformation
 error_reporting(-1);

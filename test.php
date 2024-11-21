@@ -22,6 +22,9 @@
 // $xsl_file = 'exemples/commandes_6.xsl';
 // $xml_file = 'exemples/commandes_6.xml';
 
+$xsl_file = 'combinations_1.xsl';
+$xml_file = 'combinations_1.xml';
+
 $xsl_file = 'clients_1.xsl';
 $xml_file = 'clients_1.xml';
 

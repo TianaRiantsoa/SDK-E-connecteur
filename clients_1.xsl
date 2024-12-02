@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-Rajout de code-erp pour avoir la valeur CL01493 et name pour avoir EVENDI
+Rajout de code_erp pour avoir la valeur CL01493 et name pour avoir EVENDI
 -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output omit-xml-declaration="yes" indent="yes"/>
@@ -19,7 +19,7 @@ Rajout de code-erp pour avoir la valeur CL01493 et name pour avoir EVENDI
             <!-- Copie des nœuds enfants -->
             <xsl:apply-templates select="node()|@*"/>
             
-            <!-- Ajout du nœud code_famille avec la valeur PRO -->
+            <!-- Ajout du nœud code_erp avec la valeur CL01493 -->
             <code_erp>
                 <xsl:text>CL01493</xsl:text>
             </code_erp>

@@ -1,99 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <prestashop xmlns:xlink="http://www.w3.org/1999/xlink">
 	<customer>
-		<id>
-			<![CDATA[174]]>
-		</id>
-		<id_default_group xlink:href="https://localhost/api/groups/12">
-			<![CDATA[12]]>
-		</id_default_group>
-		<id_lang xlink:href="https://localhost/api/languages/1">
-			<![CDATA[1]]>
-		</id_lang>
-		<newsletter_date_add>
-			<![CDATA[0000-00-00 00:00:00]]>
-		</newsletter_date_add>
-		<ip_registration_newsletter>
-		</ip_registration_newsletter>
-		<last_passwd_gen>
-			<![CDATA[2018-02-23 15:00:57]]>
-		</last_passwd_gen>
-		<secure_key>
-			<![CDATA[ffe453de053b3e59ddab383cfde05acb]]>
-		</secure_key>
-		<deleted>
-			<![CDATA[0]]>
-		</deleted>
-		<passwd>
-			<![CDATA[2b2706779bee04af5b91149e79068384]]>
-		</passwd>
-		<lastname>
-			<![CDATA[DURAND]]>
-		</lastname>
-		<firstname>
-			<![CDATA[Paul]]>
-		</firstname>
-		<email>
-			<![CDATA[test@test.fr]]>
-		</email>
-		<id_gender>
-			<![CDATA[0]]>
-		</id_gender>
-		<birthday>
-			<![CDATA[0000-00-00]]>
-		</birthday>
-		<newsletter>
-			<![CDATA[0]]>
-		</newsletter>
-		<optin>
-			<![CDATA[0]]>
-		</optin>
-		<website>
-		</website>
-		<company>
-			<![CDATA[John Doe Company]]>
-		</company>
-		<siret>
-			5115515151
-		</siret>
-		<outstanding_allow_amount>
-			<![CDATA[0.000000]]>
-		</outstanding_allow_amount>
-		<show_public_prices>
-			<![CDATA[0]]>
-		</show_public_prices>
-		<id_risk>
-			<![CDATA[1]]>
-		</id_risk>
-		<max_payment_days>
-			<![CDATA[0]]>
-		</max_payment_days>
-		<active>
-			<![CDATA[1]]>
-		</active>
-		<note>
-		</note>
-		<is_guest>
-			<![CDATA[0]]>
-		</is_guest>
-		<id_shop>
-			<![CDATA[1]]>
-		</id_shop>
-		<id_shop_group>
-			<![CDATA[1]]>
-		</id_shop_group>
-		<date_add>
-			<![CDATA[2018-02-23 21:00:57]]>
-		</date_add>_
-		<date_upd>
-			<![CDATA[2018-04-12 17:02:59]]>
-		</date_upd>
+		<id><![CDATA[59975]]></id>
+		<id_default_group xlink:href="https://www.leminirider.fr/api/groups/3"><![CDATA[3]]></id_default_group>
+		<id_lang xlink:href="https://www.leminirider.fr/api/languages/2"><![CDATA[2]]></id_lang>
+		<newsletter_date_add><![CDATA[2024-11-21 12:52:04]]></newsletter_date_add>
+		<ip_registration_newsletter></ip_registration_newsletter>
+		<last_passwd_gen><![CDATA[2024-11-21 06:52:04]]></last_passwd_gen>
+		<secure_key><![CDATA[b39b8858aea42d8876341abf24cc1f45]]></secure_key>
+		<deleted><![CDATA[0]]></deleted>
+		<passwd><![CDATA[$2y$10$Q3MK/rHUnqRW7NRowOeEGuWtgaX4rzr6NLvWzVC3a9HK0zPClrX6S]]></passwd>
+		<lastname><![CDATA[Valero]]></lastname>
+		<firstname><![CDATA[Florent]]></firstname>
+		<email><![CDATA[sabrina.florent30520@gmail.com]]></email>
+		<id_gender><![CDATA[0]]></id_gender>
+		<birthday><![CDATA[0000-00-00]]></birthday>
+		<newsletter><![CDATA[1]]></newsletter>
+		<optin><![CDATA[0]]></optin>
+		<website></website>
+		<company></company>
+		<siret></siret>
+		<ape></ape>
+		<outstanding_allow_amount><![CDATA[0.000000]]></outstanding_allow_amount>
+		<show_public_prices><![CDATA[0]]></show_public_prices>
+		<id_risk><![CDATA[0]]></id_risk>
+		<max_payment_days><![CDATA[0]]></max_payment_days>
+		<active><![CDATA[1]]></active>
+		<note></note>
+		<is_guest><![CDATA[0]]></is_guest>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_shop_group><![CDATA[1]]></id_shop_group>
+		<date_add><![CDATA[2024-11-21 12:52:04]]></date_add>
+		<date_upd><![CDATA[2024-11-21 12:52:04]]></date_upd>
+		<reset_password_token></reset_password_token>
+		<reset_password_validity><![CDATA[0000-00-00 00:00:00]]></reset_password_validity>
 		<associations>
 			<groups nodeType="group" api="groups">
-				<group xlink:href="https://localhost/api/groups/12">
-					<id>
-						<![CDATA[12]]>
-					</id>
+				<group xlink:href="https://www.leminirider.fr/api/groups/3">
+					<id><![CDATA[3]]></id>
 				</group>
 			</groups>
 		</associations>
